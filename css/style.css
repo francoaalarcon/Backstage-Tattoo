@@ -2326,7 +2326,7 @@ p{
 -----------------------*/
 
 .map {
-	height: 635px;
+	height: auto;
 }
 
 .map iframe {
